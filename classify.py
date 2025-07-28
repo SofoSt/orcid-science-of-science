@@ -3827,94 +3827,94 @@ df = pd.read_csv("/Users/adamg/Desktop/Uni/Masterstudium/Sem. 2/MSc Project/Elen
 
 dept_to_category = {
     # Medicine
-    "cardiology": "medicine",
-    "center of medical genetics": "medicine",
-    "gastroenterology": "medicine",
-    "gynecology and obstetrics": "medicine",
-    "public health sciences": "medicine",
-    "patologia experimental": "medicine",
-    "midwest orthopaedics at rush": "medicine",
-    "outcomes research": "medicine",
-    "medicine": "medicine",
+    "cardiology": "Medicine",
+    "center of medical genetics": "Medicine",
+    "gastroenterology": "Medicine",
+    "gynecology and obstetrics": "Medicine",
+    "public health sciences": "Medicine",
+    "patologia experimental": "Medicine",
+    "midwest orthopaedics at rush": "Medicine",
+    "outcomes research": "Medicine",
+    "medicine": "Medicine",
 
     # Biology
-    "biology": "biology",
-    "biochemistry": "biology",
-    "molecular biology and genetics": "biology",
-    "genetics": "biology",
-    "chemical and biological sciences": "biology",
+    "biology": "Agricultural and Biological Sciences", #TODO: Confirm that this is ideal
+    "biochemistry": "Biochemistry, Genetics and Molecular Biology",
+    "molecular biology and genetics": "Biochemistry, Genetics and Molecular Biology",
+    "genetics": "Biochemistry, Genetics and Molecular Biology",
+    "chemical and biological sciences": "Biochemistry, Genetics and Molecular Biology",
 
     # Engineering
-    "civil enginnering": "engineering",
-    "computer enggineering": "engineering",
-    "computer engineering": "engineering",
-    "computer engineering department": "engineering",
-    "electrical engineering": "engineering",
-    "electronics and communication engineering": "engineering",
-    "engineering and natural sciences": "engineering",
-    "optoelectronic engineering and instrumentation science": "engineering",
+    "civil enginnering": "Engineering",
+    "computer enggineering": "Engineering",
+    "computer engineering": "Engineering",
+    "computer engineering department": "Engineering",
+    "electrical engineering": "Engineering",
+    "electronics and communication engineering": "Engineering",
+    "engineering and natural sciences": "Engineering",
+    "optoelectronic engineering and instrumentation science": "Engineering",
 
     # Informatics
-    "analysis and systems development": "informatics",
-    "library science": "informatics",
+    "analysis and systems development": "Computer Science",
+    "library science": "Computer Science", #TODO: Confirm if this should be Social Sciences
 
     # Psychology
-    "psychology": "psychology",
+    "psychology": "Psychology",
 
     # Environment
-    "environmental sciences and policy": "environment",
-    "porter environmental studies": "environment",
-    "water, energy and environment": "environment",
-    "sustainable development board": "environment",
+    "environmental sciences and policy": "Environmental Science",
+    "porter environmental studies": "Environmental Science",
+    "water, energy and environment": "Environmental Science",
+    "sustainable development board": "Environmental Science",
 
     # Economics / Business
-    "economics": "economics",
-    "mathematics and economics": "economics",
-    "majoring in business administration": "business",
+    "economics": "Economics, Econometrics and Finance",
+    "mathematics and economics": "Economics, Econometrics and Finance",
+    "majoring in business administration": "Business, Management and Accounting",
 
     # Education
-    "education": "education",
-    "graduate program - master and doctorate in education": "education",
-    "master's graduate program and ph.d.": "education",
-    "specific teaching": "education",
+    "education": "Social Sciences",
+    "graduate program - master and doctorate in education": "Social Sciences",
+    "master's graduate program and ph.d.": "Social Sciences",
+    "specific teaching": "Social Sciences",
 
-    # Law
-    "law institute": "law",
-    "patents": "law",
+    # Law, TODO: Might need its own category later
+    "law institute": "Social Sciences", 
+    "patents": "Social Sciences",
 
     # Arts & Humanities
-    "classics": "arts_humanities",
-    "classics & classical association of wellington": "arts_humanities",
-    "communication, film & popular culture": "arts_humanities",
-    "cultural studies": "arts_humanities",
-    "english": "arts_humanities",
-    "letters": "arts_humanities",
-    "pharmacy": "arts_humanities",  # borderline – can also be "medicine"
-    "fassgrad conference": "arts_humanities",
-    "visual": "arts_humanities",
+    "classics": "Arts and Humanities",
+    "classics & classical association of wellington": "Arts and Humanities",
+    "communication, film & popular culture": "Arts and Humanities",
+    "cultural studies": "Arts and Humanities",
+    "english": "Arts and Humanities",
+    "letters": "Arts and Humanities",
+    "fassgrad conference": "Arts and Humanities",
+    "visual": "Arts and Humanities",
+    "history": "Arts and Humanities",
+    "history, classics & archaeology": "Arts and Humanities",
 
-    # History
-    "history": "history",
-    "history, classics & archaeology": "history",
+    # Pharmacy
+    "pharmacy": "Pharmacology, Toxicology and Pharmaceutics", 
 
-    # Sociology
-    "social sciences": "sociology",
-    "social and communication sciences": "sociology",
+    # Sociology, TODO: Might need its own category later (Hannak)
+    "social sciences": "Social Sciences",
+    "social and communication sciences": "Social Sciences",
 
-    # General Science
-    "science": "science",
-    "statistics": "science",
-    "earth sciences": "science",
-    "geosciences": "science",
-    "paleontology": "science",
-    "applied chemistry research centre": "science",
-    "mrc lmb": "science",
-    "chemistry": "science",
+    # General Science, 
+    "science": "Multidisciplinary", #TODO: Figure out what to do with it later, maybe None?
+    "statistics": "Mathematics",
+    "earth sciences": "Earth and Planetary Sciences",
+    "geosciences": "Earth and Planetary Sciences",
+    "paleontology": "Earth and Planetary Sciences",
+    "applied chemistry research centre": "Chemistry",
+    "mrc lmb": "Biochemistry, Genetics and Molecular Biology",
+    "chemistry": "Chemistry",
 
     # Ambiguous / Could Map Later
     "atdc": None,
     "cities research institute": None,
-    "lysholm neuroradiology": "medicine",  # assumed
+    "lysholm neuroradiology": "Medicine",  # assumed
     "university linking and technology transfer center": None,
 }
 
