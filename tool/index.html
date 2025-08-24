@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ORCID Search</title>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Researcher Lookup</h1>
+
+    <div id="loading" style="display: none">Loading...</div>
+    <div id="errorMessage" style="color: red; display: none"></div>
+
+    <div id="authorResult" style="display: none"></div>
+
+    <div id="chartContainer" style="display: none; margin-top: 20px">
+      <canvas id="domainChart"></canvas>
+    </div>
+    <div id="searchSection">
+      <input type="text" id="authorIdInput" placeholder="Enter ORCID ID" />
+      <button id="searchButton">Search</button>
+      <div id="placeholder">Enter an ORCID ID to see researcher info.</div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

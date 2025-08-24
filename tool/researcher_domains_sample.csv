@@ -1,0 +1,100 @@
+OID,Fname,Gname,locale,Role,Org,domain_affinity
+0000-0001-5000-5000,Gordon,Joel,en,PhD,Cranfield University,"{'Environmental Science': 0.575658, 'Energy': 0.345394, 'Materials Science': 0.078948}"
+0000-0001-5009-9000,,,,,,"{'Biochemistry, Genetics and Molecular Biology': 0.736667, 'Agricultural and Biological Sciences': 0.05, 'Immunology and Microbiology': 0.083333, 'Chemistry': 0.06, 'Pharmacology, Toxicology and Pharmaceutics': 0.07}"
+0000-0001-5010-1000,,,,,,"{'Chemical Engineering': 0.222222, 'Engineering': 0.222222, 'Computer Science': 0.555556}"
+0000-0001-5020-8000,Gambhir,Sapna,en,Ph.D,Jamia Millia Islamia,"{'Engineering': 0.878378, 'Computer Science': 0.061344, 'Medicine': 0.004267, 'Arts and Humanities': 0.02027, 'Decision Sciences': 0.01707, 'Mathematics': 0.01867}"
+0000-0001-5021-6000,,,,,,"{'Agricultural and Biological Sciences': 0.6, 'Biochemistry, Genetics and Molecular Biology': 0.3, 'Medicine': 0.1}"
+0000-0001-5023-2000,,,,,,{'Medicine': 1.0}
+0000-0001-5034-7000,Shibata,Masayuki,en,cheif,Ageo Central General Hospital,{'Medicine': 1.0}
+0000-0001-5041-9000,,,,,,{'Earth and Planetary Sciences': 1.0}
+0000-0001-5049-4000,Dickerson,Joshua,en,PhD in Biological Sciences,University of Cambridge,"{'Biochemistry, Genetics and Molecular Biology': 0.753026, 'Materials Science': 0.131316, 'Physics and Astronomy': 0.063158, 'Chemistry': 0.0525}"
+0000-0001-5052-3000,NIRANJANA,Tejaswini,en,PhD,UCLA Division of Humanities,"{'Arts and Humanities': 0.770965, 'Social Sciences': 0.097126, 'Economics, Econometrics and Finance': 0.131664, 'Psychology': 0.000244}"
+0000-0001-5074-2000,Perez-Santos,Martin,en,PhD,Centro de Investigacion y de Estudios Avanzados del Instituto Politecnico Nacional,"{'Medicine': 0.266325, 'Social Sciences': 0.157912, 'Biochemistry, Genetics and Molecular Biology': 0.353, 'Pharmacology, Toxicology and Pharmaceutics': 0.216309, 'Neuroscience': 0.00048, 'Immunology and Microbiology': 0.005974}"
+0000-0001-5081-4000,Frank,Suzanne,en,Advanced Specialist Breast cancer Pharmacist,The Christie Hospital,"{'Pharmacology, Toxicology and Pharmaceutics': 0.625, 'Medicine': 0.375}"
+0000-0001-5084-9000,,,,,,"{'Biochemistry, Genetics and Molecular Biology': 0.620833, 'Medicine': 0.041667, 'Computer Science': 0.1375, 'Agricultural and Biological Sciences': 0.075, 'Social Sciences': 0.125}"
+0000-0001-5095-3000,,,,,,{'Computer Science': 1.0}
+0000-0001-5099-6000,,,,,,"{'Materials Science': 0.666667, 'Physics and Astronomy': 0.333333}"
+0000-0001-5103-2000,,,,,,"{'Materials Science': 0.676667, 'Physics and Astronomy': 0.166666, 'Engineering': 0.066667, 'Chemistry': 0.06, 'Energy': 0.03}"
+0000-0001-5105-9000,Van Camp,Guy,en,Professor,University of Antwerp,"{'Medicine': 0.733067, 'Biochemistry, Genetics and Molecular Biology': 0.252267, 'Pharmacology, Toxicology and Pharmaceutics': 0.000124, 'Neuroscience': 0.007818, 'Chemical Engineering': 1.4e-05, 'Chemistry': 0.000709, 'Health Professions': 0.003772, 'Multidisciplinary': 3.4e-05, 'Immunology and Microbiology': 0.001327, 'Computer Science': 1.4e-05, 'Mathematics': 5e-06, 'Environmental Science': 3.2e-05, 'Engineering': 5e-06, 'Arts and Humanities': 0.000225, 'Social Sciences': 5.2e-05, 'Physics and Astronomy': 1.8e-05, 'Agricultural and Biological Sciences': 0.000517}"
+0000-0001-5106-7000,,,,,,{}
+0000-0001-5107-5000,Martinez-Martinez,Sergio,en,Statistician,Universidad Nacional de Colombia,{'Mathematics': 1.0}
+0000-0001-5109-1000,Porteus,Andrew,en,Master's Candidate,Brock University,"{'Computer Science': 0.5, 'Psychology': 0.5}"
+0000-0001-5116-3000,Royo-Torres,Rafael,es,Doctor,Universidad de Zaragoza,"{'Earth and Planetary Sciences': 0.630913, 'Agricultural and Biological Sciences': 0.139211, 'Social Sciences': 0.211423, 'Environmental Science': 0.009165, 'Biochemistry, Genetics and Molecular Biology': 0.000982, 'Medicine': 0.000327, 'Multidisciplinary': 0.007979}"
+0000-0001-5124-3000,,,,,,"{'Biochemistry, Genetics and Molecular Biology': 0.316667, 'Immunology and Microbiology': 0.075, 'Medicine': 0.025, 'Agricultural and Biological Sciences': 0.583334}"
+0000-0001-5136-6000,Thust,Steffi,en,Consultant Neuroradiologist,University College London Hospitals NHS Foundation Trust National Hospital for Neurology and Neurosurgery,{'Medicine': 1.0}
+0000-0001-5141-1000,,,,,,{'Medicine': 1.0}
+0000-0001-5143-8000,Jana,Sanjay Kumar,en,PhD,Indian Institute of Technology Kharagpur,"{'Computer Science': 0.225, 'Engineering': 0.614693, 'Materials Science': 0.160307}"
+0000-0001-5145-4000,Heiland,Ally,en,Clinical Psychology,The Ohio State University,"{'Psychology': 0.842105, 'Arts and Humanities': 0.157894}"
+0000-0001-5147-0000,,,,,,"{'Biochemistry, Genetics and Molecular Biology': 0.11971, 'Chemical Engineering': 0.072174, 'Chemistry': 0.573623, 'Pharmacology, Toxicology and Pharmaceutics': 0.035725, 'Materials Science': 0.013043, 'Multidisciplinary': 0.002391, 'Physics and Astronomy': 0.106522, 'Energy': 0.002609, 'Computer Science': 0.047899, 'Mathematics': 0.026304}"
+0000-0001-5152-6000,,,,,,{}
+0000-0001-5154-2000,Chui,Hsiang-Chen,zh_TW,Ph.D,National Tsing Hua University,"{'Engineering': 0.856538, 'Physics and Astronomy': 0.056496, 'Chemistry': 0.007936, 'Materials Science': 0.038833, 'Medicine': 0.026454, 'Computer Science': 0.001571, 'Chemical Engineering': 0.010209, 'Biochemistry, Genetics and Molecular Biology': 0.001963}"
+0000-0001-5162-2000,Arıkan,Muzaffer,en,PhD,Istanbul Üniversitesi,"{'Biochemistry, Genetics and Molecular Biology': 0.867632, 'Immunology and Microbiology': 0.017857, 'Medicine': 0.038083, 'Environmental Science': 0.004286, 'Agricultural and Biological Sciences': 0.06, 'Computer Science': 0.001429, 'Multidisciplinary': 0.010714}"
+0000-0001-5164-9000,Purwaningsih,Siti Samsiyah,en,Dosen / Pengajar,Politeknik Negeri Bandung,"{'Business, Management and Accounting': 1.0}"
+0000-0001-5167-3000,,,,,,"{'Multidisciplinary': 0.2, 'Earth and Planetary Sciences': 0.733333, 'Environmental Science': 0.066667}"
+0000-0001-5168-1000,Kaluđerović,Goran,en,Prof.,Merseburg University of Applied Sciences,"{'Engineering': 0.578865, 'Materials Science': 0.039356, 'Physics and Astronomy': 0.001786, 'Biochemistry, Genetics and Molecular Biology': 0.135949, 'Chemical Engineering': 0.005363, 'Chemistry': 0.207792, 'Pharmacology, Toxicology and Pharmaceutics': 0.025856, 'Agricultural and Biological Sciences': 0.000323, 'Immunology and Microbiology': 5.2e-05, 'Medicine': 0.004383, 'Social Sciences': 0.000197, 'Neuroscience': 7.9e-05}"
+0000-0001-5170-2000,,,,,,"{'Biochemistry, Genetics and Molecular Biology': 0.463636, 'Chemistry': 0.109091, 'Multidisciplinary': 0.218182, 'Immunology and Microbiology': 0.109091, 'Medicine': 0.045455, 'Agricultural and Biological Sciences': 0.054545}"
+0000-0001-5173-7000,Jesus,Carlos,pt,Mestrado,Universidade de Lisboa,"{'Multidisciplinary': 0.299884, 'Earth and Planetary Sciences': 0.618103, 'Energy': 0.001648, 'Environmental Science': 0.063013, 'Agricultural and Biological Sciences': 0.017351}"
+0000-0001-5186-8000,Vasconcelos,Ivar Cesar Oliveira,pt,Professor titular,Universidade Paulista,"{'Social Sciences': 0.828462, 'Environmental Science': 0.158092, 'Psychology': 0.013447}"
+0000-0001-5188-4000,Smith,Jubilee,en,Master of Education,Southern Cross University,"{'Social Sciences': 0.684211, 'Computer Science': 0.315789}"
+0000-0001-5189-2000,,,,,,{'Social Sciences': 1.0}
+0000-0001-5209-4000,Vaidya,Alankar,en,M Sc,University of Pune Department of Chemistry,"{'Biochemistry, Genetics and Molecular Biology': 0.397893, 'Energy': 0.080524, 'Immunology and Microbiology': 0.031984, 'Chemical Engineering': 0.21435, 'Materials Science': 0.041813, 'Chemistry': 0.08611, 'Agricultural and Biological Sciences': 0.066414, 'Environmental Science': 0.025568, 'Multidisciplinary': 0.022096, 'Engineering': 0.033248}"
+0000-0001-5212-3000,,,,,,"{'Agricultural and Biological Sciences': 0.666667, 'Medicine': 0.333333}"
+0000-0001-5215-8000,Dordzie,Gideon,en,Ph.D.,University of Wyoming,"{'Chemical Engineering': 0.3, 'Engineering': 0.65, 'Physics and Astronomy': 0.05}"
+0000-0001-5229-7000,Torres-Alvarado,Irene,en,PhD in Biomedicine,Universitat Pompeu Fabra,{}
+0000-0001-5245-7000,Vilar,Manuela,en,Doutor em Psicologia,Universidade de Coimbra,"{'Medicine': 0.583333, 'Psychology': 0.354167, 'Social Sciences': 0.0625}"
+0000-0001-5258-8000,,,,,,"{'Engineering': 0.896667, 'Physics and Astronomy': 0.033333, 'Computer Science': 0.06, 'Materials Science': 0.01}"
+0000-0001-5277-2000,Karam,Marlène,en,Postdoctoral Fellow,Université de Sherbrooke ,"{'Medicine': 0.666667, 'Social Sciences': 0.190476, 'Nursing': 0.142857}"
+0000-0001-5284-4000,Hernández Ordóñez,Omar,es,Doctor en Ciencias Biológicas,Universidad Nacional Autonoma de Mexico Instituto de Investigaciones en Ecosistemas y Sustentabilidad,"{'Agricultural and Biological Sciences': 0.7, 'Medicine': 0.0375, 'Social Sciences': 0.054167, 'Environmental Science': 0.208333}"
+0000-0001-5286-0000,,,,,,"{'Earth and Planetary Sciences': 0.142857, 'Social Sciences': 0.809524, 'Multidisciplinary': 0.047619}"
+0000-0001-5289-5000,Urak,Ryan,en,Postdoctoral Fellow,City of Hope,"{'Biochemistry, Genetics and Molecular Biology': 0.463158, 'Immunology and Microbiology': 0.205263, 'Multidisciplinary': 0.052632, 'Pharmacology, Toxicology and Pharmaceutics': 0.070175, 'Medicine': 0.15614, 'Agricultural and Biological Sciences': 0.035088, 'Environmental Science': 0.017544}"
+0000-0001-5291-6000,Crisóstomo de Oliveira,Marcos Moisés,pt,Especialização em Novas Abordagens e tecnologias no ensino de gramática e texto,Universidade Salvador,{'Arts and Humanities': 1.0}
+0000-0001-5298-3000,HNIA,karim,fr,PhD,University of Montpellier,"{'Biochemistry, Genetics and Molecular Biology': 0.533333, 'Multidisciplinary': 0.137838, 'Medicine': 0.217117, 'Chemistry': 0.008108, 'Agricultural and Biological Sciences': 0.064865, 'Neuroscience': 0.020721, 'Immunology and Microbiology': 0.018018}"
+0000-0001-5317-7000,,,,,,"{'Medicine': 0.650163, 'Nursing': 0.001634, 'Immunology and Microbiology': 0.002941, 'Pharmacology, Toxicology and Pharmaceutics': 0.00049, 'Biochemistry, Genetics and Molecular Biology': 0.338235, 'Dentistry': 0.004902, 'Psychology': 0.001634}"
+0000-0001-5332-9000,,,,,,"{'Agricultural and Biological Sciences': 0.581818, 'Chemical Engineering': 0.145455, 'Chemistry': 0.068687, 'Biochemistry, Genetics and Molecular Biology': 0.145455, 'Materials Science': 0.058586}"
+0000-0001-5360-1000,,,,,,{}
+0000-0001-5365-2000,Brett,Peter,en,Electronic Engineering Ph.D.,University of Surrey,{}
+0000-0001-5369-5000,FAVERO,FERNANDA,en,Bachelor in Chemistry,Universidade de Brasília,"{'Chemistry': 0.754386, 'Materials Science': 0.245614}"
+0000-0001-5375-9000,,,,,,{}
+0000-0001-5376-7000,,,,,,"{'Engineering': 0.056261, 'Materials Science': 0.266667, 'Physics and Astronomy': 0.232804, 'Biochemistry, Genetics and Molecular Biology': 0.060317, 'Chemistry': 0.23545, 'Pharmacology, Toxicology and Pharmaceutics': 0.008466, 'Multidisciplinary': 0.021164, 'Chemical Engineering': 0.090829, 'Mathematics': 0.021164, 'Computer Science': 0.001587, 'Agricultural and Biological Sciences': 0.003175, 'Earth and Planetary Sciences': 0.001587, 'Environmental Science': 0.000529}"
+0000-0001-5381-2000,Medeiros Justino Lima dos Santos,Fernanda Laura,en,PhD,Universidade de Coimbra,"{'Mathematics': 0.1, 'Social Sciences': 0.9}"
+0000-0001-5386-3000,Lamberti,María Clara,en,PhD,University of Buenos Aires,{'Earth and Planetary Sciences': 1.0}
+0000-0001-5391-9000,,,,,,{'Medicine': 1.0}
+0000-0001-5392-7000,,,,,,"{'Arts and Humanities': 0.6, 'Health Professions': 0.3, 'Social Sciences': 0.1}"
+0000-0001-5395-1000,Ubaid,Abdulloh,en,B.Sc,Universitas Negeri Surabaya,{}
+0000-0001-5397-8000,,,,,,"{'Agricultural and Biological Sciences': 0.666667, 'Biochemistry, Genetics and Molecular Biology': 0.333333}"
+0000-0001-5398-6000,,,,,,"{'Medicine': 0.718868, 'Immunology and Microbiology': 0.174214, 'Pharmacology, Toxicology and Pharmaceutics': 0.001887, 'Biochemistry, Genetics and Molecular Biology': 0.040881, 'Nursing': 0.00566, 'Social Sciences': 0.001887, 'Environmental Science': 0.020126, 'Multidisciplinary': 0.018868, 'Agricultural and Biological Sciences': 0.011321, 'Chemistry': 0.006289}"
+0000-0001-5399-4000,Kennerley,Adam,en,Aquaculture Scientist,Centre for Environment Fisheries and Aquaculture Science,"{'Agricultural and Biological Sciences': 0.833333, 'Environmental Science': 0.166666}"
+0000-0001-5400-6000,Sabat,Nazarii,en,PhD ,Charles University,"{'Chemistry': 0.225, 'Engineering': 0.25, 'Chemical Engineering': 0.125, 'Biochemistry, Genetics and Molecular Biology': 0.116667, 'Pharmacology, Toxicology and Pharmaceutics': 0.033333, 'Arts and Humanities': 0.166667, 'Social Sciences': 0.083333}"
+0000-0001-5402-2000,,,,,,"{'Business, Management and Accounting': 0.007586, 'Computer Science': 0.015133, 'Engineering': 0.005346, 'Materials Science': 2.3e-05, 'Mathematics': 0.000255, 'Decision Sciences': 0.970653, 'Social Sciences': 7.7e-05, 'Health Professions': 0.000618, 'Medicine': 0.000309}"
+0000-0001-5405-7000,,,,,,"{'Agricultural and Biological Sciences': 0.666667, 'Environmental Science': 0.333333}"
+0000-0001-5412-9000,,,,,,"{'Business, Management and Accounting': 0.626191, 'Economics, Econometrics and Finance': 0.269047, 'Environmental Science': 0.010714, 'Social Sciences': 0.039286, 'Arts and Humanities': 0.042857, 'Decision Sciences': 0.011905}"
+0000-0001-5414-5000,lone,baliram,en,Head &amp; Assistant Professor,vinayakrao patil mahavidyalaya vaijapur,"{'Chemistry': 0.541667, 'Materials Science': 0.183333, 'Chemical Engineering': 0.15, 'Computer Science': 0.025, 'Engineering': 0.075, 'Physics and Astronomy': 0.025}"
+0000-0001-5416-1000,Rios Riverón,Meylin,es,Orden Clara Zetkin,Universidad Central de Venezuela. Movimientos de mujeres Clara Zetkin,{}
+0000-0001-5419-6000,Freeman,Bethany,en,,University of North Carolina,{}
+0000-0001-5423-3000,Candra,Arya Dwi,en,,Sekolah Tinggi Teknologi Ronggolawe,"{'Engineering': 0.525, 'Earth and Planetary Sciences': 0.475}"
+0000-0001-5427-6000,Wasilewska,Halina,en,PhD,Uniwersytet im Adama Mickiewicza w Poznaniu,"{'Arts and Humanities': 0.733334, 'Social Sciences': 0.266666}"
+0000-0001-5432-1000,St. Bernard,Godfrey ,en,PhD Candidate,Western University,{'Mathematics': 1.0}
+0000-0001-5435-6000,,,,,,{}
+0000-0001-5440-1000,Zotov,Pavel,en,Student,First Pavlov State Medical University of St. Peterburg,{}
+0000-0001-5444-4000,Barigou,Fatiha,en,Associate Professor,University of Oran1,"{'Business, Management and Accounting': 0.458333, 'Computer Science': 0.3875, 'Decision Sciences': 0.0875, 'Mathematics': 0.041667, 'Social Sciences': 0.0125, 'Medicine': 0.0125}"
+0000-0001-5451-6000, Purwanza,Sena Wahyu,en, M.Kep,Universitas Airlangga,"{'Medicine': 0.3, 'Nursing': 0.65, 'Psychology': 0.05}"
+0000-0001-5469-8000,,,,,,{'Earth and Planetary Sciences': 1.0}
+0000-0001-5471-9000,,,,,,{}
+0000-0001-5473-5000,,,,,,"{'Earth and Planetary Sciences': 0.4, 'Chemical Engineering': 0.266667, 'Environmental Science': 0.143333, 'Energy': 0.06, 'Engineering': 0.13}"
+0000-0001-5477-8000,,,,,,"{'Agricultural and Biological Sciences': 0.733334, 'Biochemistry, Genetics and Molecular Biology': 0.266666}"
+0000-0001-5481-5000,Mukhtar,Anique,en,MS(MECHANICAL ENGINEERING),HITEC University,"{'Agricultural and Biological Sciences': 0.3, 'Biochemistry, Genetics and Molecular Biology': 0.15, 'Chemistry': 0.05, 'Engineering': 0.5}"
+0000-0001-5487-4000,,,,,,{}
+0000-0001-5494-6000,,,,,,{}
+0000-0001-5509-2000,,,,,,"{'Biochemistry, Genetics and Molecular Biology': 0.666667, 'Agricultural and Biological Sciences': 0.333334}"
+0000-0001-5510-5000,allehyani,saud,en,Prof,Umm al-Qura University,"{'Chemical Engineering': 0.5, 'Health Professions': 0.5}"
+0000-0001-5511-3000,,,,,,{}
+0000-0001-5516-4000,Marcone,Simone,en,MSc,Università degli Studi di Roma La Sapienza,"{'Biochemistry, Genetics and Molecular Biology': 0.555556, 'Medicine': 0.444444}"
+0000-0001-5517-2000,,,,,,{'Medicine': 1.0}
+0000-0001-5522-8000,VILELLA,Antonello,en,Dottorando di ricerca / PhD Student,Università degli Studi di Bari Aldo Moro,"{'Arts and Humanities': 0.666667, 'Social Sciences': 0.333333}"
+0000-0001-5523-6000,,,,,,"{'Engineering': 0.666667, 'Materials Science': 0.333333}"
+0000-0001-5540-4000,Stout,Justin,en,Doctor of Philosophy,University of Melbourne,"{'Earth and Planetary Sciences': 0.625253, 'Social Sciences': 0.292929, 'Environmental Science': 0.063636, 'Agricultural and Biological Sciences': 0.018182}"
+0000-0001-5545-5000,,,,,,"{'Chemistry': 0.5, 'Biochemistry, Genetics and Molecular Biology': 0.333334, 'Medicine': 0.166666}"
+0000-0001-5546-3000,Benítez  Hurtado,María Alejandra ,es, Public relationist,Church of Scientology UK,{'Social Sciences': 1.0}
+0000-0001-5552-7000,De Souza Rodrigues,Leonardo,en,,Universidade Federal do Rio Grande,{}
+0000-0001-5573-8000,DAUD,INTAN SUFINAZ,en,MASTER OF EDUCATION (CURRICULUM PEDAGOGY),Universiti Kebangsaan Malaysia,"{'Social Sciences': 0.770833, 'Medicine': 0.229167}"
+0000-0001-5574-6000,,,,,,"{'Earth and Planetary Sciences': 0.6, 'Engineering': 0.3, 'Physics and Astronomy': 0.1}"
